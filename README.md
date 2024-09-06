@@ -7,14 +7,4 @@ Responsive Layout
 Custom CSS Styling
 Clean and Organized Code
 # Technologies Used
-HTML5
-CSS3
-# Project Structure
-spotify-clone/
-│
-├── index.html       # Main HTML file
-├── style.css        # CSS file for styling the page
-└── assets/          # Folder containing images/icons used in the design
-    ├── image1.jpg
-    ├── image2.jpg
-    └── ...
+HTML5, CSS3
